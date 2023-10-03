@@ -1,0 +1,8 @@
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.csproj.AssemblyReference.cache
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.AssemblyInfoInputs.cache
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.AssemblyInfo.cs
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.csproj.CoreCompileInputs.cache
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.RazorAssemblyInfo.cache
+C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\obj\Debug\net6.0\Bulk Disabler Web Application.RazorAssemblyInfo.cs

@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bulk_Disabler_Web_Application
+build_property.RootNamespace = Bulk_Disabler_Web_Application
+build_property.ProjectDir = C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HanaHalouani\source\repos\Bulk Disabler Web Application\Bulk Disabler Web Application
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/Pages/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/Pages/EditGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEdhbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bg82s46gj3
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HanaHalouani/source/repos/Bulk Disabler Web Application/Bulk Disabler Web Application/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
